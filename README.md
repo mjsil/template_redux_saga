@@ -43,7 +43,7 @@ git clone https://github.com/mjsil/template_redux_saga.git
 ### Web
 
 ```bash
-# Entre na pasta redux_saga
+# Entre na pasta do projeto
 $ cd template_redux_saga
 # Instale as dependências
 $ yarn install ou npm install
