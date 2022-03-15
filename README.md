@@ -1,5 +1,5 @@
 <h3 align="center">
-  Template Redux Thunk
+  Template Redux Saga
 </h3>
 
 <p align="center">
